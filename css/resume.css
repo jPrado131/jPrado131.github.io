@@ -122,4 +122,8 @@ section.resume-section {
 a {
   color: #213555; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #213555; }
+a.btn-primary{
+  background-color: #213555!important;
+  border-color: #213555!important;
+}
